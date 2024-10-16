@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/iip/cutie/build",
+  "command": "C:\\msys64\\mingw32\\bin\\g++.exe  -std=c++17 -g -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\iip\\cutie\\main.cpp",
+  "file": "D:\\iip\\cutie\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
+}
+]
